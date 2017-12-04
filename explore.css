@@ -1,0 +1,25 @@
+.welcome {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 34px;
+  text-align: left;
+}
+
+h1 {
+  font-family: 'Source Sans Pro Black', sans-serif;
+  font-size: 46px;
+  line-height: 40%;
+  text-align: left;
+  /*letter-spacing: 2px;*/
+}
+
+h3 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 25%;
+}
+
+p {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 16px;
+}
