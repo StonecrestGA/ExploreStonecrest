@@ -1,19 +1,33 @@
 h1 {
   font-family: 'Source Sans Pro Black', sans-serif;
-  font-size: 46px;
+  font-size: 48px;
   line-height: 80%;
   text-align: left;
-  /*letter-spacing: 2px;*/
+  letter-spacing: 1px;
 }
 
 h3 {
   font-family: 'Source Sans Pro', sans-serif;
-  font-size: 20px;
+  font-size: 22px;
   font-weight: bold;
-  line-height: 75%;
+  line-height: 35%;
+  letter-spacing: 0.5px;
 }
 
 p {
   font-family: 'Source Sans Pro', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
+  letter-spacing: 0.5px;
+}
+
+a {
+  font-weight: bold;
+  color: #cc0000;
+}
+
+a:hover {
+  font-weight: bold;
+  color: #cc0000;
+  background-color: yellow;
+  text-decoration: none;
 }
