@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-  font-family: 'Source Sans Pro Black', sans-serif;
+  font-family: 'Source Sans Pro Black', 'Source Sans Pro', serif;
   font-size: 48px;
   line-height: 80%;
   text-align: left;
