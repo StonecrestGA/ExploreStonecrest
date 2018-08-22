@@ -16,7 +16,7 @@ h3 {
   font-weight: bold;
   line-height: 35%;
   letter-spacing: 0.5px;
-  color: #cc0000;
+  color: #9D1722;
 }
 
 p {
@@ -27,16 +27,16 @@ p {
 
 a {
   font-weight: bold;
-  color: #cc0000;
+  color: #9D1722;
 }
 
 a:hover {
   font-weight: bold;
-  color: #cc0000;
+  color: #9D1722;
   background-color: yellow;
   text-decoration: none;
 }
 
 .red {
-  color: #cc0000;
+  color: #9D1722;
 }
